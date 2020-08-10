@@ -20,4 +20,4 @@ I created a project called Synxty where I plan to talk about mental health, clea
 - 📚 I’m currently learning TypeScript, Docker and Kubernetes.
 - 🎯 Aiming to become a Project Manager.
 - 🐍 The Mamba Mentality makes me achieve my goals.
-- <img alt="Synxty" width="18px" src="https://avatars1.githubusercontent.com/u/68447417?s=200&v=4" /> &nbsp;Founder of Synxty.
+- <img alt="Synxty" width="16px" align="center" src="https://avatars1.githubusercontent.com/u/68447417?s=200&v=4" /> &nbsp;Founder of Synxty.
