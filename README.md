@@ -1,6 +1,6 @@
 # Zé Pedro Resende
 
-## Hi there
+## 👋🏼 Hi there
 
 I'm a fullstack developer with a passion for code, clean code.
 
@@ -14,10 +14,12 @@ As a sports enthusiast I'm extremely competitive and perfectionist. Inspired by 
 
 I created a project called Synxty where I plan to talk about mental health, clean code, good software architecture and design and to provide tools to help people starting the developer journey the right way and also help current developers to get better, so we are all in sync.
 
-### Overview
+### 👁️‍🗨️ Overview
 
 - 🎓 I’m currently finishing my degree in IT.
 - 📚 I’m currently learning TypeScript, Docker and Kubernetes.
 - 🎯 Aiming to become a Project Manager.
 - 🐍 The Mamba Mentality makes me achieve my goals.
 - <img alt="Synxty" width="16px" align="center" src="https://avatars1.githubusercontent.com/u/68447417?s=200&v=4" /> &nbsp;Founder of Synxty.
+
+### 📜 [Resume](https://github.com/tiddal/tiddal/blob/master/resume/zepedroresende_resume_EN.pdf)
