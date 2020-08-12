@@ -22,4 +22,4 @@ I created a project called Synxty where I plan to talk about mental health, clea
 - 🐍 The Mamba Mentality makes me achieve my goals.
 - <img alt="Synxty" width="16px" align="center" src="https://avatars1.githubusercontent.com/u/68447417?s=200&v=4" /> &nbsp;Founder of Synxty.
 
-### 📜 [Resume](https://github.com/tiddal/tiddal/blob/master/resume/zepedroresende_resume_EN.pdf)
+### 📜 Resume [EN](https://github.com/tiddal/tiddal/blob/master/resume/zepedroresende_resume_EN.pdf) | [PT](https://github.com/tiddal/tiddal/blob/master/resume/zepedroresende_resume_PT.pdf)
