@@ -1,4 +1,4 @@
-# Zé Pedro Resende
+# Pedro Resende
 
 ## 👋🏼 Hi there
 
